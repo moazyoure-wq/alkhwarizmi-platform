@@ -1,0 +1,26 @@
+export default function Lesson() {
+  return (
+    <main>
+      <section>
+        <h1>الدرس الأول - رياضيات</h1>
+
+        <div>
+          🎥 الفيديو التعليمي
+        </div>
+
+        <button>
+          مشاهدة الفيديو
+        </button>
+
+        <button>
+          تحميل ملف PDF
+        </button>
+
+        <button>
+          إنهاء الدرس
+        </button>
+
+      </section>
+    </main>
+  );
+}
