@@ -1,2 +1,0 @@
-# alkhwarizmi-platform
-ايـن انـتِ 🖤 ؟
